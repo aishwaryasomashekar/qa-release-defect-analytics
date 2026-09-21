@@ -1,0 +1,330 @@
+defect_id,release_id,module,severity,found_in,date_reported,date_resolved,status
+1,1,Login,Medium,QA,2025-11-29,2025-12-08,Resolved
+2,1,Login,Low,UAT,2025-11-27,2025-12-07,Resolved
+3,1,Login,Medium,QA,2025-12-24,2026-01-02,Resolved
+4,1,Login,High,QA,2025-12-22,2025-12-26,Resolved
+5,1,Login,Critical,QA,2025-12-22,2025-12-25,Resolved
+6,1,Login,Medium,QA,2025-12-06,2025-12-13,Resolved
+7,1,Login,Low,UAT,2025-12-16,2026-01-03,Resolved
+8,1,Login,Medium,QA,2025-11-30,2025-12-13,Resolved
+9,1,Login,Low,UAT,2025-12-12,2025-12-21,Resolved
+10,1,Login,Low,UAT,2025-11-27,2025-12-11,Resolved
+11,2,Payments,Medium,Production,2025-05-25,2025-06-08,Resolved
+12,2,Payments,Medium,QA,2025-06-19,2025-06-29,Resolved
+13,2,Payments,Low,QA,2025-05-21,2025-05-29,Resolved
+14,2,Payments,Medium,QA,2025-05-26,2025-06-04,Resolved
+15,2,Payments,Medium,QA,2025-05-24,,Open
+16,2,Payments,Low,QA,2025-06-10,2025-06-18,Resolved
+17,2,Payments,Medium,QA,2025-06-03,2025-06-11,Resolved
+18,2,Payments,Medium,Production,2025-06-02,2025-06-08,Resolved
+19,2,Payments,Low,UAT,2025-06-15,2025-06-28,Resolved
+20,2,Payments,High,UAT,2025-05-26,2025-06-02,Resolved
+21,3,User Profile,Low,UAT,2025-03-09,2025-03-17,Resolved
+22,3,User Profile,Medium,UAT,2025-03-20,2025-04-01,Resolved
+23,3,User Profile,Low,QA,2025-02-25,,Open
+24,3,User Profile,Low,QA,2025-03-09,2025-03-26,Resolved
+25,3,User Profile,Critical,Production,2025-03-22,,Open
+26,3,User Profile,Medium,QA,2025-02-26,2025-03-05,Resolved
+27,4,Login,Medium,UAT,2025-08-11,2025-08-19,Resolved
+28,4,Login,High,UAT,2025-09-03,2025-09-10,Resolved
+29,4,Login,Low,QA,2025-09-03,,Open
+30,4,Login,Medium,UAT,2025-08-21,,Open
+31,4,Login,Low,QA,2025-09-02,,Open
+32,4,Login,Critical,UAT,2025-08-16,,Open
+33,4,Login,Low,QA,2025-08-27,2025-09-12,Resolved
+34,5,Payments,Medium,QA,2025-05-05,2025-05-18,Resolved
+35,5,Payments,High,QA,2025-05-09,,Open
+36,5,Payments,Medium,QA,2025-05-01,2025-05-08,Resolved
+37,5,Payments,Critical,QA,2025-05-15,2025-05-17,Resolved
+38,5,Payments,Low,QA,2025-04-26,,Open
+39,5,Payments,Low,Production,2025-05-14,,Open
+40,5,Payments,Medium,QA,2025-05-05,,Open
+41,5,Payments,Medium,QA,2025-05-05,2025-05-19,Resolved
+42,6,User Profile,Low,QA,2025-01-30,2025-02-10,Resolved
+43,6,User Profile,Medium,QA,2025-01-15,2025-01-29,Resolved
+44,6,User Profile,Medium,UAT,2025-02-13,2025-02-19,Resolved
+45,6,User Profile,Medium,Production,2025-02-07,2025-02-16,Resolved
+46,7,User Profile,Medium,UAT,2025-12-06,2025-12-18,Resolved
+47,8,User Profile,Low,QA,2025-09-07,2025-09-22,Resolved
+48,8,User Profile,High,QA,2025-08-28,2025-09-03,Resolved
+49,8,User Profile,Medium,UAT,2025-09-02,2025-09-16,Resolved
+50,8,User Profile,Medium,Production,2025-09-12,2025-09-21,Resolved
+51,8,User Profile,Critical,Production,2025-09-10,2025-09-12,Resolved
+52,8,User Profile,Medium,QA,2025-09-02,2025-09-16,Resolved
+53,9,Payments,Medium,QA,2025-01-27,2025-02-10,Resolved
+54,9,Payments,Medium,QA,2025-01-06,2025-01-15,Resolved
+55,9,Payments,Medium,QA,2025-01-12,2025-01-17,Resolved
+56,10,Search,High,UAT,2025-06-28,2025-07-05,Resolved
+57,10,Search,Low,QA,2025-07-16,2025-07-26,Resolved
+58,10,Search,Low,Production,2025-07-04,,Open
+59,10,Search,Medium,Production,2025-07-20,2025-08-01,Resolved
+60,10,Search,Medium,QA,2025-07-15,2025-07-27,Resolved
+61,11,Login,High,UAT,2025-07-03,2025-07-05,Resolved
+62,11,Login,Low,QA,2025-06-27,2025-07-11,Resolved
+63,11,Login,High,UAT,2025-07-16,2025-07-22,Resolved
+64,11,Login,Medium,QA,2025-06-30,2025-07-07,Resolved
+65,11,Login,Medium,QA,2025-07-17,2025-07-29,Resolved
+66,12,Search,Low,UAT,2025-02-20,,Open
+67,12,Search,Medium,Production,2025-03-04,,Open
+68,12,Search,Low,QA,2025-02-27,2025-03-18,Resolved
+69,13,Search,Medium,QA,2025-11-27,2025-12-05,Resolved
+70,13,Search,Medium,QA,2025-11-16,2025-11-23,Resolved
+71,13,Search,Critical,QA,2025-11-08,2025-11-09,Resolved
+72,13,Search,Medium,UAT,2025-11-17,2025-11-25,Resolved
+73,13,Search,High,QA,2025-11-25,2025-11-27,Resolved
+74,13,Search,Medium,Production,2025-11-12,2025-11-26,Resolved
+75,14,User Profile,Low,QA,2025-09-12,2025-09-21,Resolved
+76,14,User Profile,Low,UAT,2025-09-18,,Open
+77,14,User Profile,Medium,QA,2025-09-07,2025-09-13,Resolved
+78,14,User Profile,Low,QA,2025-09-06,,Open
+79,14,User Profile,Low,QA,2025-08-29,2025-09-17,Resolved
+80,14,User Profile,Low,QA,2025-09-03,2025-09-10,Resolved
+81,15,Login,High,QA,2025-08-11,2025-08-14,Resolved
+82,15,Login,High,QA,2025-07-17,2025-07-23,Resolved
+83,15,Login,High,UAT,2025-08-11,2025-08-16,Resolved
+84,15,Login,High,QA,2025-07-31,2025-08-07,Resolved
+85,15,Login,Medium,Production,2025-07-17,,Open
+86,15,Login,Medium,QA,2025-08-04,,Open
+87,15,Login,Medium,UAT,2025-08-12,2025-08-24,Resolved
+88,16,User Profile,Low,UAT,2025-12-13,2025-12-21,Resolved
+89,16,User Profile,Critical,Production,2025-12-14,2025-12-16,Resolved
+90,16,User Profile,Medium,Production,2025-11-28,2025-12-07,Resolved
+91,16,User Profile,Medium,Production,2025-11-20,2025-11-30,Resolved
+92,17,User Profile,Critical,QA,2025-07-29,2025-07-31,Resolved
+93,17,User Profile,High,QA,2025-07-17,2025-07-24,Resolved
+94,17,User Profile,Medium,Production,2025-07-25,2025-08-04,Resolved
+95,18,Login,Medium,QA,2025-02-11,2025-02-16,Resolved
+96,18,Login,Medium,QA,2025-02-07,2025-02-20,Resolved
+97,18,Login,Medium,Production,2025-03-02,,Open
+98,18,Login,Critical,QA,2025-02-15,2025-02-18,Resolved
+99,18,Login,High,Production,2025-02-26,2025-03-04,Resolved
+100,18,Login,Medium,Production,2025-02-09,2025-02-23,Resolved
+101,18,Login,Critical,UAT,2025-02-20,2025-02-23,Resolved
+102,18,Login,Low,UAT,2025-02-12,2025-03-02,Resolved
+103,18,Login,Critical,UAT,2025-03-05,,Open
+104,18,Login,Critical,UAT,2025-03-03,2025-03-06,Resolved
+105,19,Login,High,UAT,2025-06-17,2025-06-20,Resolved
+106,19,Login,High,QA,2025-06-24,2025-07-01,Resolved
+107,19,Login,High,Production,2025-06-16,2025-06-22,Resolved
+108,19,Login,Low,UAT,2025-06-22,2025-06-29,Resolved
+109,20,Reports,Critical,QA,2025-03-17,2025-03-19,Resolved
+110,20,Reports,Medium,QA,2025-02-28,2025-03-14,Resolved
+111,20,Reports,Critical,Production,2025-03-12,2025-03-14,Resolved
+112,21,Search,Low,QA,2025-11-22,,Open
+113,22,Payments,Low,QA,2025-07-26,2025-08-14,Resolved
+114,22,Payments,Medium,QA,2025-07-21,2025-07-30,Resolved
+115,22,Payments,Medium,Production,2025-07-20,2025-07-25,Resolved
+116,22,Payments,Medium,UAT,2025-07-03,2025-07-12,Resolved
+117,22,Payments,Critical,QA,2025-07-04,,Open
+118,22,Payments,Medium,Production,2025-07-18,2025-07-31,Resolved
+119,22,Payments,Low,UAT,2025-07-09,2025-07-16,Resolved
+120,22,Payments,Low,UAT,2025-07-31,2025-08-21,Resolved
+121,22,Payments,High,UAT,2025-07-02,2025-07-04,Resolved
+122,22,Payments,High,QA,2025-07-11,,Open
+123,22,Payments,Low,QA,2025-07-24,,Open
+124,22,Payments,High,UAT,2025-07-16,2025-07-22,Resolved
+125,23,Login,Medium,UAT,2026-01-05,2026-01-16,Resolved
+126,23,Login,Medium,QA,2026-01-19,2026-01-25,Resolved
+127,23,Login,Critical,UAT,2026-01-22,2026-01-23,Resolved
+128,23,Login,High,QA,2026-01-10,,Open
+129,23,Login,High,Production,2026-01-09,2026-01-12,Resolved
+130,23,Login,High,UAT,2026-01-15,,Open
+131,24,User Profile,High,QA,2025-04-16,2025-04-18,Resolved
+132,24,User Profile,High,QA,2025-04-11,2025-04-14,Resolved
+133,25,Reports,Low,UAT,2025-04-19,2025-05-08,Resolved
+134,25,Reports,Medium,QA,2025-04-11,2025-04-19,Resolved
+135,26,User Profile,Medium,Production,2025-12-12,,Open
+136,26,User Profile,High,UAT,2025-12-17,2025-12-20,Resolved
+137,26,User Profile,Medium,QA,2025-12-23,,Open
+138,26,User Profile,Low,Production,2025-12-07,2025-12-14,Resolved
+139,26,User Profile,Medium,UAT,2025-11-25,2025-12-06,Resolved
+140,27,Login,Low,UAT,2025-06-19,2025-07-03,Resolved
+141,27,Login,Critical,UAT,2025-07-08,2025-07-11,Resolved
+142,27,Login,High,QA,2025-06-23,,Open
+143,27,Login,Critical,UAT,2025-06-21,2025-06-24,Resolved
+144,27,Login,Medium,UAT,2025-06-30,2025-07-12,Resolved
+145,27,Login,Low,QA,2025-07-11,2025-07-31,Resolved
+146,27,Login,Medium,UAT,2025-07-13,2025-07-19,Resolved
+147,27,Login,Medium,UAT,2025-06-25,2025-07-06,Resolved
+148,27,Login,Medium,UAT,2025-07-04,2025-07-12,Resolved
+149,27,Login,Critical,Production,2025-07-09,2025-07-10,Resolved
+150,28,Search,Medium,QA,2025-01-29,2025-02-08,Resolved
+151,28,Search,Critical,QA,2025-02-06,2025-02-09,Resolved
+152,28,Search,Medium,UAT,2025-01-21,2025-01-31,Resolved
+153,28,Search,High,QA,2025-02-16,,Open
+154,28,Search,Medium,UAT,2025-02-10,2025-02-18,Resolved
+155,28,Search,Low,UAT,2025-01-30,2025-02-10,Resolved
+156,29,Payments,High,QA,2025-02-19,2025-02-21,Resolved
+157,29,Payments,Medium,Production,2025-03-03,2025-03-12,Resolved
+158,29,Payments,Medium,UAT,2025-02-25,2025-03-03,Resolved
+159,29,Payments,Low,QA,2025-02-15,2025-03-08,Resolved
+160,29,Payments,Low,QA,2025-02-08,2025-02-19,Resolved
+161,29,Payments,High,QA,2025-02-09,,Open
+162,29,Payments,Critical,QA,2025-02-24,,Open
+163,29,Payments,Medium,QA,2025-02-26,2025-03-03,Resolved
+164,30,Search,Critical,Production,2025-11-13,2025-11-16,Resolved
+165,31,Reports,Medium,UAT,2025-10-08,2025-10-18,Resolved
+166,31,Reports,Medium,UAT,2025-09-30,2025-10-12,Resolved
+167,31,Reports,Medium,Production,2025-09-22,2025-09-29,Resolved
+168,31,Reports,High,QA,2025-09-22,2025-09-24,Resolved
+169,32,Reports,Medium,QA,2025-12-25,2026-01-01,Resolved
+170,32,Reports,High,Production,2025-12-22,2025-12-29,Resolved
+171,32,Reports,Medium,QA,2025-12-03,2025-12-09,Resolved
+172,33,Payments,Medium,QA,2025-03-24,2025-03-31,Resolved
+173,33,Payments,Medium,UAT,2025-03-24,2025-03-31,Resolved
+174,33,Payments,Medium,QA,2025-03-22,,Open
+175,33,Payments,Medium,QA,2025-03-17,,Open
+176,33,Payments,High,Production,2025-03-30,2025-04-05,Resolved
+177,33,Payments,Medium,QA,2025-03-22,2025-04-05,Resolved
+178,33,Payments,Low,UAT,2025-04-11,2025-04-25,Resolved
+179,33,Payments,High,QA,2025-03-14,2025-03-17,Resolved
+180,34,Search,High,QA,2025-10-29,2025-11-01,Resolved
+181,35,User Profile,High,UAT,2025-08-14,2025-08-20,Resolved
+182,36,Payments,High,QA,2025-05-20,2025-05-25,Resolved
+183,36,Payments,Low,Production,2025-05-05,2025-05-15,Resolved
+184,36,Payments,Medium,UAT,2025-04-24,2025-05-04,Resolved
+185,36,Payments,Medium,QA,2025-05-05,2025-05-15,Resolved
+186,36,Payments,High,QA,2025-05-07,2025-05-13,Resolved
+187,36,Payments,Medium,QA,2025-05-06,2025-05-18,Resolved
+188,36,Payments,Low,Production,2025-05-06,,Open
+189,37,Login,Low,UAT,2025-02-20,2025-03-02,Resolved
+190,37,Login,Low,UAT,2025-02-26,,Open
+191,37,Login,Medium,QA,2025-02-16,2025-02-27,Resolved
+192,37,Login,High,QA,2025-03-02,2025-03-09,Resolved
+193,37,Login,Low,QA,2025-03-14,2025-03-27,Resolved
+194,38,Payments,Critical,Production,2025-04-15,2025-04-18,Resolved
+195,38,Payments,Medium,QA,2025-03-20,2025-03-25,Resolved
+196,38,Payments,High,UAT,2025-04-09,2025-04-14,Resolved
+197,38,Payments,Medium,QA,2025-03-25,,Open
+198,38,Payments,Medium,QA,2025-04-13,2025-04-22,Resolved
+199,38,Payments,Low,UAT,2025-03-31,2025-04-16,Resolved
+200,38,Payments,Medium,QA,2025-04-10,,Open
+201,38,Payments,Low,QA,2025-04-12,2025-04-28,Resolved
+202,38,Payments,High,UAT,2025-03-24,2025-03-28,Resolved
+203,38,Payments,Medium,QA,2025-03-21,2025-03-30,Resolved
+204,39,User Profile,Low,QA,2025-08-14,2025-08-25,Resolved
+205,39,User Profile,Low,UAT,2025-08-29,2025-09-15,Resolved
+206,39,User Profile,Critical,UAT,2025-08-22,,Open
+207,39,User Profile,Low,UAT,2025-08-14,2025-08-25,Resolved
+208,39,User Profile,Medium,QA,2025-08-23,,Open
+209,39,User Profile,Critical,UAT,2025-08-16,2025-08-18,Resolved
+210,40,User Profile,High,QA,2025-07-22,2025-07-25,Resolved
+211,40,User Profile,Medium,UAT,2025-08-14,,Open
+212,41,Search,Medium,UAT,2025-10-01,2025-10-12,Resolved
+213,41,Search,Critical,Production,2025-10-27,2025-10-28,Resolved
+214,41,Search,High,QA,2025-10-24,,Open
+215,41,Search,Medium,UAT,2025-10-08,2025-10-15,Resolved
+216,41,Search,Critical,Production,2025-10-05,,Open
+217,41,Search,High,QA,2025-10-02,2025-10-05,Resolved
+218,42,Login,Medium,UAT,2025-01-09,2025-01-15,Resolved
+219,42,Login,Medium,QA,2025-01-12,2025-01-18,Resolved
+220,42,Login,Medium,UAT,2025-01-21,,Open
+221,42,Login,Critical,QA,2025-01-06,2025-01-07,Resolved
+222,43,Search,High,Production,2025-10-07,2025-10-14,Resolved
+223,43,Search,Critical,Production,2025-11-01,,Open
+224,43,Search,High,QA,2025-10-18,2025-10-25,Resolved
+225,43,Search,Medium,QA,2025-10-28,2025-11-11,Resolved
+226,43,Search,Medium,UAT,2025-11-01,2025-11-10,Resolved
+227,44,Login,Critical,UAT,2025-07-23,,Open
+228,44,Login,Low,QA,2025-07-16,2025-08-01,Resolved
+229,44,Login,Medium,QA,2025-07-20,,Open
+230,44,Login,Medium,UAT,2025-07-07,2025-07-13,Resolved
+231,44,Login,High,QA,2025-07-10,2025-07-13,Resolved
+232,44,Login,Medium,QA,2025-07-17,2025-07-22,Resolved
+233,44,Login,Medium,QA,2025-07-08,2025-07-22,Resolved
+234,44,Login,Medium,Production,2025-07-01,2025-07-14,Resolved
+235,44,Login,Low,QA,2025-07-21,,Open
+236,44,Login,Low,Production,2025-07-05,2025-07-14,Resolved
+237,44,Login,Medium,UAT,2025-07-06,2025-07-18,Resolved
+238,45,Reports,Critical,QA,2025-04-03,2025-04-06,Resolved
+239,45,Reports,High,Production,2025-03-27,2025-03-29,Resolved
+240,45,Reports,High,QA,2025-04-18,2025-04-23,Resolved
+241,45,Reports,Low,UAT,2025-03-30,2025-04-18,Resolved
+242,45,Reports,Medium,QA,2025-04-16,2025-04-27,Resolved
+243,45,Reports,Medium,Production,2025-04-06,2025-04-19,Resolved
+244,46,User Profile,High,QA,2025-05-30,2025-06-02,Resolved
+245,46,User Profile,High,QA,2025-05-16,2025-05-18,Resolved
+246,46,User Profile,Critical,QA,2025-06-03,2025-06-06,Resolved
+247,46,User Profile,High,UAT,2025-06-08,2025-06-10,Resolved
+248,47,Login,Low,UAT,2025-09-23,2025-10-04,Resolved
+249,47,Login,Medium,QA,2025-09-27,2025-10-10,Resolved
+250,47,Login,Low,QA,2025-09-30,,Open
+251,47,Login,Medium,QA,2025-09-29,2025-10-11,Resolved
+252,47,Login,Critical,UAT,2025-10-14,,Open
+253,47,Login,High,QA,2025-09-26,2025-10-03,Resolved
+254,47,Login,Low,UAT,2025-10-02,2025-10-19,Resolved
+255,47,Login,Medium,QA,2025-10-04,2025-10-11,Resolved
+256,47,Login,Medium,QA,2025-09-29,2025-10-13,Resolved
+257,47,Login,Low,QA,2025-09-18,2025-09-25,Resolved
+258,47,Login,High,QA,2025-10-12,2025-10-19,Resolved
+259,48,User Profile,High,QA,2025-06-13,2025-06-17,Resolved
+260,48,User Profile,Critical,QA,2025-06-09,2025-06-12,Resolved
+261,48,User Profile,Critical,UAT,2025-06-29,2025-07-01,Resolved
+262,48,User Profile,High,UAT,2025-06-03,2025-06-08,Resolved
+263,48,User Profile,Medium,UAT,2025-06-15,2025-06-24,Resolved
+264,48,User Profile,Medium,QA,2025-06-12,2025-06-23,Resolved
+265,49,Search,Medium,Production,2025-03-23,2025-03-31,Resolved
+266,49,Search,Medium,UAT,2025-03-30,2025-04-06,Resolved
+267,49,Search,Medium,QA,2025-04-04,,Open
+268,50,User Profile,High,QA,2025-10-13,2025-10-19,Resolved
+269,50,User Profile,High,UAT,2025-10-06,,Open
+270,50,User Profile,Critical,QA,2025-10-06,,Open
+271,50,User Profile,Medium,QA,2025-10-29,2025-11-04,Resolved
+272,50,User Profile,High,Production,2025-10-17,2025-10-24,Resolved
+273,51,Search,Medium,QA,2025-11-19,2025-12-01,Resolved
+274,51,Search,Medium,Production,2025-11-23,,Open
+275,52,Search,Medium,UAT,2025-03-25,2025-04-06,Resolved
+276,52,Search,Medium,Production,2025-03-26,,Open
+277,52,Search,Medium,QA,2025-03-05,2025-03-15,Resolved
+278,52,Search,High,UAT,2025-03-23,,Open
+279,52,Search,Medium,Production,2025-03-28,2025-04-03,Resolved
+280,53,Payments,High,QA,2025-06-12,2025-06-16,Resolved
+281,53,Payments,High,QA,2025-06-11,2025-06-14,Resolved
+282,53,Payments,Low,QA,2025-06-22,,Open
+283,53,Payments,Medium,Production,2025-06-13,2025-06-20,Resolved
+284,53,Payments,Critical,UAT,2025-06-15,2025-06-18,Resolved
+285,53,Payments,Medium,QA,2025-06-30,2025-07-12,Resolved
+286,53,Payments,Critical,Production,2025-06-17,2025-06-20,Resolved
+287,53,Payments,Critical,Production,2025-07-05,2025-07-07,Resolved
+288,53,Payments,Low,QA,2025-07-03,,Open
+289,54,Login,High,UAT,2025-11-16,2025-11-18,Resolved
+290,54,Login,Low,Production,2025-11-16,2025-12-01,Resolved
+291,54,Login,Low,QA,2025-10-21,,Open
+292,54,Login,High,UAT,2025-10-30,2025-11-06,Resolved
+293,54,Login,Low,QA,2025-10-21,2025-10-30,Resolved
+294,54,Login,High,QA,2025-11-14,2025-11-20,Resolved
+295,55,Login,Medium,Production,2025-09-16,2025-09-29,Resolved
+296,55,Login,Medium,Production,2025-10-04,2025-10-11,Resolved
+297,55,Login,Medium,Production,2025-09-06,2025-09-20,Resolved
+298,55,Login,Medium,UAT,2025-09-07,2025-09-15,Resolved
+299,55,Login,Medium,UAT,2025-09-28,,Open
+300,55,Login,Medium,UAT,2025-09-13,2025-09-25,Resolved
+301,55,Login,Low,QA,2025-10-05,2025-10-16,Resolved
+302,55,Login,Low,UAT,2025-09-15,,Open
+303,55,Login,High,QA,2025-09-16,2025-09-23,Resolved
+304,55,Login,Critical,Production,2025-10-02,2025-10-04,Resolved
+305,55,Login,Medium,Production,2025-09-28,,Open
+306,56,Payments,Low,UAT,2025-10-16,2025-10-24,Resolved
+307,56,Payments,Medium,Production,2025-10-23,2025-11-02,Resolved
+308,56,Payments,Critical,QA,2025-10-20,2025-10-21,Resolved
+309,56,Payments,Low,QA,2025-10-12,2025-10-22,Resolved
+310,57,User Profile,Medium,QA,2025-09-08,2025-09-21,Resolved
+311,57,User Profile,Low,UAT,2025-09-05,2025-09-25,Resolved
+312,57,User Profile,Medium,Production,2025-09-15,,Open
+313,58,User Profile,High,UAT,2025-10-24,2025-10-28,Resolved
+314,58,User Profile,High,QA,2025-10-03,,Open
+315,59,User Profile,High,Production,2025-05-18,2025-05-24,Resolved
+316,59,User Profile,Medium,Production,2025-05-03,2025-05-11,Resolved
+317,59,User Profile,Low,QA,2025-05-08,2025-05-21,Resolved
+318,59,User Profile,High,Production,2025-04-24,2025-04-30,Resolved
+319,59,User Profile,Medium,QA,2025-05-18,,Open
+320,60,Payments,High,UAT,2025-12-26,2025-12-30,Resolved
+321,60,Payments,Medium,QA,2026-01-16,2026-01-24,Resolved
+322,60,Payments,Low,QA,2026-01-10,2026-01-20,Resolved
+323,60,Payments,Medium,QA,2025-12-29,2026-01-07,Resolved
+324,60,Payments,Medium,QA,2026-01-07,2026-01-19,Resolved
+325,60,Payments,Medium,Production,2026-01-11,2026-01-22,Resolved
+326,60,Payments,Medium,UAT,2026-01-12,2026-01-26,Resolved
+327,60,Payments,Critical,QA,2025-12-30,2025-12-31,Resolved
+328,60,Payments,Medium,UAT,2026-01-10,2026-01-24,Resolved
+329,60,Payments,Low,QA,2026-01-05,2026-01-21,Resolved

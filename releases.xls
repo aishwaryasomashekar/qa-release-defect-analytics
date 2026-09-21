@@ -1,0 +1,61 @@
+release_id,release_date,module,release_type
+1,2025-11-24,Login,Major
+2,2025-05-21,Payments,Minor
+3,2025-02-22,User Profile,Major
+4,2025-08-05,Login,Major
+5,2025-04-22,Payments,Minor
+6,2025-01-14,User Profile,Major
+7,2025-11-29,User Profile,Minor
+8,2025-08-18,User Profile,Minor
+9,2025-01-04,Payments,Minor
+10,2025-06-24,Search,Major
+11,2025-06-22,Login,Major
+12,2025-02-19,Search,Hotfix
+13,2025-11-06,Search,Hotfix
+14,2025-08-24,User Profile,Major
+15,2025-07-13,Login,Minor
+16,2025-11-18,User Profile,Hotfix
+17,2025-07-05,User Profile,Major
+18,2025-02-05,Login,Minor
+19,2025-05-29,Login,Hotfix
+20,2025-02-21,Reports,Minor
+21,2025-11-22,Search,Major
+22,2025-07-01,Payments,Minor
+23,2025-12-26,Login,Minor
+24,2025-03-29,User Profile,Hotfix
+25,2025-03-25,Reports,Minor
+26,2025-11-24,User Profile,Minor
+27,2025-06-16,Login,Minor
+28,2025-01-17,Search,Minor
+29,2025-02-03,Payments,Hotfix
+30,2025-10-18,Search,Minor
+31,2025-09-13,Reports,Hotfix
+32,2025-11-26,Reports,Major
+33,2025-03-13,Payments,Hotfix
+34,2025-10-03,Search,Hotfix
+35,2025-08-08,User Profile,Minor
+36,2025-04-23,Payments,Minor
+37,2025-02-16,Login,Hotfix
+38,2025-03-20,Payments,Hotfix
+39,2025-08-05,User Profile,Major
+40,2025-07-15,User Profile,Hotfix
+41,2025-09-28,Search,Hotfix
+42,2025-01-06,Login,Minor
+43,2025-10-02,Search,Hotfix
+44,2025-06-24,Login,Minor
+45,2025-03-22,Reports,Major
+46,2025-05-15,User Profile,Hotfix
+47,2025-09-17,Login,Hotfix
+48,2025-06-02,User Profile,Minor
+49,2025-03-20,Search,Hotfix
+50,2025-10-04,User Profile,Hotfix
+51,2025-11-03,Search,Minor
+52,2025-02-27,Search,Hotfix
+53,2025-06-07,Payments,Major
+54,2025-10-18,Login,Major
+55,2025-09-06,Login,Hotfix
+56,2025-09-30,Payments,Major
+57,2025-09-01,User Profile,Major
+58,2025-09-28,User Profile,Minor
+59,2025-04-19,User Profile,Hotfix
+60,2025-12-20,Payments,Hotfix
